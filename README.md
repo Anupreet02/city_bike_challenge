@@ -2,7 +2,7 @@
 
 * [ ] Overview
   Welcome to the Citi Bike Program Analysis! This project aims to provide insights into the usage of the Citi Bike program in New York City by aggregating and visualizing trip data collected since 2013. As the lead analyst, I have created a set of reports to help city officials understand ridership trends, peak usage times, and popular bike stations.
-* [ ] https://public.tableau.com/app/profile/anupreet.kaur.virk/viz/AnupreetVisuals/Story4?publish=yes (**here i have attached my tablaue link )**
+* https://public.tableau.com/app/profile/anupreet.kaur.virk/viz/AnupreetVisuals/Dashboard3?publish=yes  (**here i have attached my tablaue link )**
 
 This analysis utilizes data from the Citi Bike Trip History Logs, focusing on the most recent year to ensure consistency in data structure and relevance. Through this project, we aim to identify two unexpected phenomena regarding bike usage and present them through engaging visualizations.
 
